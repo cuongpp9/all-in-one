@@ -1,5 +1,3 @@
-[![react-ssr-boilerplate](https://i.imgur.com/c4BqIax.png)](https://github.com/luangjokaj/react-ssr-boilerplate)
-
 # React SSR
 |👇|Includes|
 |:-:|:---|
