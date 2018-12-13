@@ -1,10 +1,6 @@
 [![react-ssr-boilerplate](https://i.imgur.com/c4BqIax.png)](https://github.com/luangjokaj/react-ssr-boilerplate)
 
-# React SSR Boilerplate
-A minimal React boilerplate with support for code splitting, hot module reload and server side rendering.
-
-Demo: https://react-ssr-boilerplate.herokuapp.com/
-
+# React SSR
 |👇|Includes|
 |:-:|:---|
 |⚙| Babel 7|
